@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raulituomas
-- 👀 I’m interested in computer science, Algorithms and Programming, music technology and music software.
-- 🌱 I’m currently learning basics of Java and python.
-- 💞️ I’m looking to collaborate on simple learning and music software projects
+- 👀 I’m interested in philosophy, art, music and programming.
+- 🌱 I’m currently learning basics of computer science, AI, Java and python.
+- 💞️ I’m looking to collaborate on music software projects.
 - 📫 How to reach me raulituomas@gmail.com
 
 <!---
