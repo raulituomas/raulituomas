@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raulituomas
-- 👀 I’m interested in computer science, Algorithms and Programming,Object Oriented Programming,java, python and coffee
-- 🌱 I’m currently learning basics of computer science and java 
+- 👀 I’m interested in computer science, Algorithms and Programming, music technology and music software.
+- 🌱 I’m currently learning basics of Java and python.
 - 💞️ I’m looking to collaborate on simple learning and music software projects
 - 📫 How to reach me raulituomas@gmail.com
 
