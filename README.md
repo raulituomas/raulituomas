@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rauli
 - 👀 I’m interested in philosophy, art, music and programming.
-- 🌱 I’m currently learning basics of computer science, AI, Java and python. Just started learning full-stack web developement.
+
 
 
 <!---
